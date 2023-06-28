@@ -1,5 +1,5 @@
-Fisaj
+Fisaj: Fisaj
 
-this text writed by Joker 
+jokerjam: Joker 
 
-Mediankin Ilia
+Ilia: Mediankin Ilia
